@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="bye_world">Hallo Welt</string>
+    <string name="hi_world">Während die Welt</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="bye_world">Пока мир</string>
+    <string name="hi_world">Привет мир</string>
+
+</resources>
